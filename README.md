@@ -50,7 +50,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@julien-aw](https://www.frontendmentor.io/profile/julien-aw)
 - Twitter - [@julienawon](https://www.twitter.com/julienawon)
 - Linkedin - [@julien-aw](https://www.linkedin.com/in/julien-aw/)
 
