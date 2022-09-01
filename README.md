@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/julien-aw/Frontend-Mentor-QR-code-component)
-- Live Site URL: (https://julien-aw.github.io/Frontend-Mentor-QR-code-component/)
+- Solution URL: [Link](https://github.com/julien-aw/Frontend-Mentor-QR-code-component)
+- Live Site URL: [Link](https://julien-aw.github.io/Frontend-Mentor-QR-code-component/)
 
 ## My process
 
@@ -75,9 +75,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@julienawon](https://www.twitter.com/julienawon)
+- Linkedin - [@julien-aw](https://www.linkedin.com/in/julien-aw/)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
