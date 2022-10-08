@@ -28,8 +28,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Solution URL: [Link](https://github.com/julien-aw/Frontend-Mentor-QR-code-component)
 - Live Site URL: [Link](https://julien-aw.github.io/Frontend-Mentor-QR-code-component/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
