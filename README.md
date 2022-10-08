@@ -43,7 +43,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
  I'll focus on Responsive design
 
-### Useful resources
 
 - [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
